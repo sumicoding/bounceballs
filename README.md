@@ -1,2 +1,2 @@
 # bounceballs
-https://sumicoding.github.io/bounceballs/
+https://github.com/sumicoding/bounceballs.git
